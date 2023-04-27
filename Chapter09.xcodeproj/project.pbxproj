@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C58BB1D29FB334D00E961A9 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C58BB1C29FB334D00E961A9 /* File.swift */; };
 		E4145A8129EE679400D15766 /* Exercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4145A8029EE679400D15766 /* Exercise.swift */; };
 		E4C2281F29ECF85800FD6E7C /* DemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4C2281E29ECF85800FD6E7C /* DemoView.swift */; };
 		E4D95DC029EC8D0C004659EC /* Chapter09App.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4D95DBF29EC8D0C004659EC /* Chapter09App.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C58BB1C29FB334D00E961A9 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		E4145A8029EE679400D15766 /* Exercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise.swift; sourceTree = "<group>"; };
 		E4C2281E29ECF85800FD6E7C /* DemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoView.swift; sourceTree = "<group>"; };
 		E4D95DBC29EC8D0C004659EC /* Chapter09.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chapter09.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -58,6 +60,7 @@
 				E4D95DBF29EC8D0C004659EC /* Chapter09App.swift */,
 				E4C2281E29ECF85800FD6E7C /* DemoView.swift */,
 				E4D95DC129EC8D0C004659EC /* ContentView.swift */,
+				2C58BB1C29FB334D00E961A9 /* File.swift */,
 				E4D95DC329EC8D0E004659EC /* Assets.xcassets */,
 				E4D95DC529EC8D0E004659EC /* Preview Content */,
 				E4145A8029EE679400D15766 /* Exercise.swift */,
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C58BB1D29FB334D00E961A9 /* File.swift in Sources */,
 				E4D95DC229EC8D0C004659EC /* ContentView.swift in Sources */,
 				E4145A8129EE679400D15766 /* Exercise.swift in Sources */,
 				E4C2281F29ECF85800FD6E7C /* DemoView.swift in Sources */,
